@@ -1,0 +1,25 @@
+.small-container{
+    max-width: 1080px;
+    margin: auto;
+    padding-left: 25px;
+    padding-right: 25px;
+    border: 2px;
+    border-radius: 1ex;
+    box-shadow: 0 12px 21px 9px;
+    border-color: black;
+}
+
+.col-4{
+    flex-basis: 25%;
+    padding: 10px;
+    min-width: 200px;
+    margin-bottom: 50px;
+}
+
+.product_btn button{
+    border-radius: 2ex;
+    background-color: lightgreen;
+    color: black;
+    border-color: lightgreen;
+
+}
